@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29509.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DisplayPdfBlob", "DisplayPdfBlob\DisplayPdfBlob.csproj", "{89B70623-F77D-4F8D-8A56-0D309D0D8692}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiProject", "ApiProject\ApiProject.csproj", "{EDCE1289-5AE3-4BA5-8EE6-2CDF694822C4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89B70623-F77D-4F8D-8A56-0D309D0D8692}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89B70623-F77D-4F8D-8A56-0D309D0D8692}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89B70623-F77D-4F8D-8A56-0D309D0D8692}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89B70623-F77D-4F8D-8A56-0D309D0D8692}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDCE1289-5AE3-4BA5-8EE6-2CDF694822C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDCE1289-5AE3-4BA5-8EE6-2CDF694822C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDCE1289-5AE3-4BA5-8EE6-2CDF694822C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDCE1289-5AE3-4BA5-8EE6-2CDF694822C4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9958470E-BC55-48C5-AA1A-B326B18D2CDF}
+	EndGlobalSection
+EndGlobal
