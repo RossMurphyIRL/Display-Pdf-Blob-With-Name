@@ -27,6 +27,7 @@ Then access the header like this:
 
 
 Response.Headers.Add("FileDownloadName", response.FileDownloadName);
+
 Response.Headers.Add("Access-Control-Expose-Headers", "filedownloadname");
 
 
