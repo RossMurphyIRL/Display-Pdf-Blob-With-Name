@@ -25,7 +25,9 @@ Then access the header like this:
 
 ## Add the file name to header with API by doing the following in the controller function:
 
+
 Response.Headers.Add("FileDownloadName", response.FileDownloadName);
 Response.Headers.Add("Access-Control-Expose-Headers", "filedownloadname");
+
 
 as seen in the source code.
